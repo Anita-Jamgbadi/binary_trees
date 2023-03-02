@@ -2,7 +2,7 @@
 /**
  * binary_tree_inorder - This function traverses a binary tree inorder:
  * i.e Left -> Root -> Right
- * 
+ *
  * @tree: points to the tree to be traversed
  * @func: calls on the node to be traversed using its value (n)
  */
